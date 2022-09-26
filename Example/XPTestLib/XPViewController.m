@@ -7,6 +7,7 @@
 //
 
 #import "XPViewController.h"
+#import <XPTestLib/XPTest.h>
 
 @interface XPViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [[XPTest new] printHello];
 }
 
 - (void)didReceiveMemoryWarning

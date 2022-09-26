@@ -1,0 +1,6 @@
+framework module XPTestLib {
+  umbrella header "XPTestLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

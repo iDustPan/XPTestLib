@@ -1,0 +1,22 @@
+{
+  "name": "XPTestLib",
+  "version": "0.1.0",
+  "summary": "A short description of XPTestLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Pan/XPTestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pan": "xupan.working@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/Pan/XPTestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "XPTestLib/Classes/**/*"
+}
